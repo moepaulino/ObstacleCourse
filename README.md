@@ -1,4 +1,4 @@
-# UnitySprint
+# ObstacleCourse
 This is a 3D Unity Application written in C#.
 
 Itch.io: https://leopaulino.itch.io/leandro-paulino-sprint-4
